@@ -5,4 +5,4 @@
 ![Alt Text](https://img.shields.io/badge/CSS-3-red)
 ![Alt Text](https://img.shields.io/badge/JavaScript-5.1-yellowgreen)
 ![Alt Text](https://img.shields.io/badge/jQuery-3.5.1-yellow)<br/>
-**(React)[https://reactjs.org/]**
+**[React](https://reactjs.org/)**
